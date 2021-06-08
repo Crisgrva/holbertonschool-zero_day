@@ -1,3 +1,3 @@
-**My First Repo For Holberton Project**
+**My Repo for ZERO DAY**
 
-This is my first repo for a Vagrant project
+This is my repo for Zero day, im so happy learning in Holberton School
