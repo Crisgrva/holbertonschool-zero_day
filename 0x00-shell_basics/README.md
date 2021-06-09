@@ -1,2 +1,2 @@
-**Shell Basics README**
-This is a readme for Shell Basics projects
+**Shell Basics README**\n
+This is the README for Shell, basics Project
